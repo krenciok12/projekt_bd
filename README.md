@@ -1,1 +1,1 @@
-# projekt_bd
+Projekt na zajęcia z baz danych
